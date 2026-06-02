@@ -125,15 +125,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-```
-🔷 Advanced Power BI  →  DAX measures, Row-level security, Paginated reports
-🐍 Python for Data    →  Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-☁️  AWS Analytics     →  S3, Athena, QuickSight, Glue, Redshift
-🧠 Deep Learning      →  CNNs, Transfer learning, Model evaluation metrics
-📐 Statistics         →  Hypothesis testing, Regression, A/B Testing
-```
 
 ---
 
