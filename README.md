@@ -12,42 +12,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-# sithdesh.py
-
-class DataAnalyst:
-    def __init__(self):
-        self.name         = "Sithdesh C S"
-        self.location     = "Tamil Nadu, India 🇮🇳"
-        self.degree       = "BE - Computer Science & Engineering (2025)"
-        self.cgpa         = 7.96
-        self.stack        = [
-            "Excel", "SQL", "Power BI",
-            "Tableau", "Python", "Deep Learning"
-        ]
-        self.currentlyLearning = [
-            "Advanced DAX in Power BI",
-            "Machine Learning with Python",
-            "AWS Cloud Analytics"
-        ]
-        self.funFact      = "I find patterns in data the way\n" \
-                            "others find shapes in clouds ☁️"
-
-    def motto(self):
-        return "Data is the new oil — I'm the refinery. 🛢️"
-
-me = DataAnalyst()
-print(me.motto())
-```
-
-<br clear="right"/>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -95,35 +59,6 @@ print(me.motto())
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sithdesh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sithdesh&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/sithdesh)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sithdesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/sithdesh)
-
-</div>
-
----
 
 ## 💼 Work Experience
 
